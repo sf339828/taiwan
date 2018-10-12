@@ -24,3 +24,65 @@
 #contentR {
 	margin-left: 245px;
 }
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #767676;
+	background-image: url(images/cute_design_bg.png);
+	background-repeat: repeat-x;
+	margin-top: 28px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#sidemenu {
+	background-image: url(images/menu_bg.jpg);
+	height: 302px;
+	width: 180px;
+	margin-left: 40px;
+	padding-left: 13px;
+}
+#listNew {
+	margin-right: 30px;
+	margin-left: 50px;
+	line-height: 1.5em;
+}
+#contintMain {
+	margin-right: 55px;
+	margin-left: 13px;
+	line-height: 2.5em;
+}
+.headerLogo {
+	float: left;
+	margin-top: 20px;
+	margin-left: 48px;
+}
+.headerCopy {
+	float: left;
+	margin-top: 100px;
+	margin-left: 25px;
+	font-size: 11px;
+}
+.email {
+	float: left;
+	margin-top: 65px;
+	margin-left: 100px;
+}
+.subtitle {
+	font-size: 14px;
+	font-weight: bold;
+	color: #EF4E08;
+	margin-top: 0px;
+}
+.date {
+	color: #EA5413;
+}
+#content #contentL #listNew p {
+	padding-top: 10px;
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
